@@ -40,6 +40,7 @@ public class main {
         enviarDatos("AAA-0009","2018-01-05 07:30");
         enviarDatos("AAA-0009","2018-01-07 07:30");
         enviarDatos("AAA-0008","2018-01-04 07:30");
+        enviarDatos("AAA-0008","2018-01-04 07:30");
         
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
         String licencia;
